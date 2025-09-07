@@ -12,5 +12,7 @@ My research sits at the intersection of **international relations** and **politi
 
 Before starting my Ph.D., I earned an **M.A. in Global Studies** from the Chinese University of Hong Kong (Shenzhen) and a **B.A. in Financial Management** from Nankai University. I also studied abroad at the **University of California, Berkeley** and **NEOMA Business School** in France, experiences that deepened my interest in global politics and international cooperation.  
  
+## Contact
 
-This site collects my **research projects**, **datasets**, and **CV**. Feel free to explore, and don’t hesitate to reach out if you’d like to connect!  
+- **Email**: [zoz20@pitt.edu](mailto:zoz20@pitt.edu)  
+- **GitHub**: [https://github.com/YiZhao999](https://github.com/YiZhao999)  
