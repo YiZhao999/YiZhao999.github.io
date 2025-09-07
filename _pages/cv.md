@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-- **Ph.D. in Political Science**, University of Pittsburgh — *2024–2029 (Expected)*  
+- **Ph.D. in Political Science**, University of Pittsburgh — *2024–current*  
 - **M.A. in Global Studies**, The Chinese University of Hong Kong (Shenzhen), China — *2021–2022*  
 - **B.A. in Financial Management**, Nankai University, China — *2017–2021*  
 - **Study Abroad**: University of California, Berkeley (Fall 2019); NEOMA Business School, France (Spring 2020)  
