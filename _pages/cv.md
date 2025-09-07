@@ -23,7 +23,5 @@ redirect_from:
 - **Teaching Assistant**, International Law and International Organizations, The Chinese University of Hong Kong, Shenzhen — *Fall 2021*  
 
 # Skills
-- Python  
-- R  
-- Stata  
-- LaTeX  
+- **Programming Languages**: Python, R, Stata  
+- **Typesetting & Documentation**: LaTeX  
