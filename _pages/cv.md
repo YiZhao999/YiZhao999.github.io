@@ -21,10 +21,13 @@ Work experience
 - **Teaching Assistant**, Introduction to International Relations, University of Pittsburgh — *Fall 2025*  
 - **Research Assistant**, Department of Political Science, University of Pittsburgh — *Summer 2025*  
 - **Research Assistant**, School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen) — *Spring 2024*  
-- **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong (Shenzhen) — *Fall 2022 – Fall 2023*  
+- **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong (Shenzhen) — *Fall 2022 – Fall 2023*
+- **Teaching Assistant**, International Law and International Organizations, The Chinese University of Hong Kong (Shenzhen) — *Fall 2021*  
+
   
 Skills
 ======
 - Python  
 - R  
-- LaTeX 
+- LaTeX
+- Stata
