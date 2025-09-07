@@ -11,33 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science, University of Pittsburgh, 2029 (expected)
-* M.A. in Global Studies, The Chinese University of Hong Kong (Shenzhen), 2022
-* B.A. in Financial Management, Nankai University, 2021
-* Study Abroad: University of California, Berkeley (2019); NEOMA Business School (2020)
+- **Ph.D. in Political Science**, University of Pittsburgh — *Expected 2029*  
+- **M.A. in Global Studies**, The Chinese University of Hong Kong (Shenzhen), China — *2022*  
+- **B.A. in Financial Management**, Nankai University, China — *2021*  
+- **Study Abroad**: University of California, Berkeley, USA (2019); NEOMA Business School, France (2020)  
 
 Work experience
 ======
-* Summer 2025: Research Assistant 
-  * University of Pittsburgh 
-
-* Spring 2024: Research  Assistant
-  * The Chinese University of Hong Kong (Shenzhen)
-
-* Fall 2022/Spring 2023/Fall 2023: Lab Assistant
-  * The Chinese University of Hong Kong (Shenzhen)
+- **Research Assistant**, Department of Political Science, University of Pittsburgh — *Summer 2025*  
+- **Research Assistant**, School of Humanities and Social Science, The Chinese University of Hong Kong (Shenzhen) — *Spring 2024*  
+- **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong (Shenzhen) — *Fall 2022 – Fall 2023*  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Python  
+- R  
+- LaTeX 
   
-Teaching
+Teaching Assistant
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- **Introduction to International Relations**, University of Pittsburgh — *Fall 2025*  
