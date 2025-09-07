@@ -14,6 +14,3 @@ Before starting my Ph.D., I earned an **M.A. in Global Studies** from the Chines
  
 
 This site collects my **research projects**, **datasets**, and **CV**. Feel free to explore, and don’t hesitate to reach out if you’d like to connect!  
-
-📍 Pittsburgh, PA  
-📧 [zoz20@pitt.edu](mailto:zoz20@pitt.edu)  
