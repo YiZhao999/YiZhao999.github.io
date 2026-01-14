@@ -16,7 +16,7 @@ redirect_from:
 - **Exchange Student**: University of California, Berkeley (Fall 2019); NEOMA Business School, France (Spring 2020)  
 
 # Work Experience
-- **Teaching Assistant**, Introduction to International Relations, University of Pittsburgh — *Fall 2025*  
+- **Teaching Assistant**, Introduction to International Relations, University of Pittsburgh — *Fall 2025, Spring 2026*  
 - **Research Assistant**, Department of Political Science, University of Pittsburgh — *Summer 2025*  
 - **Research Assistant**, School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen — *Spring 2024*  
 - **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong, Shenzhen — *2022 – 2023*  
