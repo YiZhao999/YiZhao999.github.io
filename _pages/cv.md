@@ -22,12 +22,6 @@ redirect_from:
 - **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong, Shenzhen — *2022 – 2023*  
 - **Teaching Assistant**, International Law and International Organizations, The Chinese University of Hong Kong, Shenzhen — *Fall 2021*  
 
-# Honors and Awards
-- **Multiple Academic Merit Scholarships**, Nankai University and The Chinese University of Hong Kong, Shenzhen
-- **Top Ten Finalist**, KPMG National Business Case Competition (National Level), China — *2019*  
-- **First Prize**, Undergraduate Mathematics Competition (Provincial Level), China — *2018*  
-- **Third Prize**, High School Mathematics Competition (Provincial Level), China — *2017*
-
 # Skills
 - **Programming Languages**: Python, R, Stata  
 - **Typesetting & Documentation**: LaTeX  
