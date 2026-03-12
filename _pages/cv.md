@@ -30,6 +30,3 @@ redirect_from:
 - **First Prize**, Undergraduate Mathematics Competition (Provincial Level), China — *2018*  
 - **Third Prize**, High School Mathematics Competition (Provincial Level), China — *2017*
 
-# Skills
-- **Programming Languages**: Python, R, Stata  
-- **Typesetting & Documentation**: LaTeX  
