@@ -26,7 +26,7 @@ redirect_from:
 
 # Honors and Awards
 - **Multiple Academic Merit Scholarships**, Nankai University and The Chinese University of Hong Kong, Shenzhen
-- **Top Ten Finalist**, KPMG National Business Case Competition, China — *2019*  
+- **Top Ten Finalist**, KPMG Business Case Competition (National Level), China — *2019*  
 - **First Prize**, Undergraduate Mathematics Competition (Provincial Level), China — *2018*  
 - **Third Prize**, High School Mathematics Competition (Provincial Level), China — *2017*
 
