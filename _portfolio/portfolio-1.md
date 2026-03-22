@@ -1,6 +1,6 @@
 ---
-title: "Hearts and Minds in Multipolarity: How Foreign Aid Shapes Public Opinion in Recipient Countries"
-excerpt: "Examines how foreign aid affects public opinion toward donor states in a multipolar order."
+title: "Winning Hearts, Buying Votes? Foreign Aid and Political Alignment in a Multipolar World"
+excerpt: "Examines how foreign aid affects voting alignment and public opinion toward donor states in a multipolar order."
 collection: research
 ---
 
