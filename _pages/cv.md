@@ -18,11 +18,10 @@ redirect_from:
 # Work Experience
 - **Teaching Assistant**, Introduction to International Relations, University of Pittsburgh — *Fall 2025, Spring 2026*  
 - **Research Assistant**, Department of Political Science, University of Pittsburgh — *Summer 2025*  
-- **Research Assistant**, School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen — *Spring 2024*  
-- **Lab Assistant**, Institute for International Affairs, The Chinese University of Hong Kong, Shenzhen — *2022 – 2023*  
+- **Research Assistant**, The Chinese University of Hong Kong, Shenzhen — *Fall 2022 - Spring 2024*  
 - **Teaching Assistant**, International Law and International Organizations, The Chinese University of Hong Kong, Shenzhen — *Fall 2021*
 - **Editorial Intern**, Princeton University Press (China Office) — *2021*  
-- **Program Assistant**, Innovation Center for China–U.S. Youth Exchange — *2019* 
+- **Student Representative**, Innovation Center for China–U.S. Youth Exchange — *2019* 
 
 # Honors and Awards
 - **Multiple Academic Merit Scholarships**, Nankai University and The Chinese University of Hong Kong, Shenzhen
